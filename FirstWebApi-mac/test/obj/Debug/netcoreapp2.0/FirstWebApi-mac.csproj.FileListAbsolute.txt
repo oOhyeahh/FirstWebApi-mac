@@ -1,0 +1,11 @@
+/Users/oliver/Projects/FirstWebApi-mac/test/test/bin/Debug/netcoreapp2.0/FirstWebApi-mac.deps.json
+/Users/oliver/Projects/FirstWebApi-mac/test/test/bin/Debug/netcoreapp2.0/FirstWebApi-mac.runtimeconfig.json
+/Users/oliver/Projects/FirstWebApi-mac/test/test/bin/Debug/netcoreapp2.0/FirstWebApi-mac.runtimeconfig.dev.json
+/Users/oliver/Projects/FirstWebApi-mac/test/test/bin/Debug/netcoreapp2.0/FirstWebApi-mac.dll
+/Users/oliver/Projects/FirstWebApi-mac/test/test/bin/Debug/netcoreapp2.0/FirstWebApi-mac.pdb
+/Users/oliver/Projects/FirstWebApi-mac/test/test/obj/Debug/netcoreapp2.0/FirstWebApi-mac.csprojResolveAssemblyReference.cache
+/Users/oliver/Projects/FirstWebApi-mac/test/test/obj/Debug/netcoreapp2.0/FirstWebApi-mac.csproj.CoreCompileInputs.cache
+/Users/oliver/Projects/FirstWebApi-mac/test/test/obj/Debug/netcoreapp2.0/FirstWebApi-mac.AssemblyInfoInputs.cache
+/Users/oliver/Projects/FirstWebApi-mac/test/test/obj/Debug/netcoreapp2.0/FirstWebApi-mac.AssemblyInfo.cs
+/Users/oliver/Projects/FirstWebApi-mac/test/test/obj/Debug/netcoreapp2.0/FirstWebApi-mac.dll
+/Users/oliver/Projects/FirstWebApi-mac/test/test/obj/Debug/netcoreapp2.0/FirstWebApi-mac.pdb
